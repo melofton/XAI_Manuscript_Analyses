@@ -5,13 +5,13 @@
 <img alt="Python" src="https://img.shields.io/badge/Python-3.9%2B-blueviolet">
 <img alt="Models" src="https://img.shields.io/badge/Models-Ensemble_ML_Methods-4285F4">
 <img alt="Framework" src="https://img.shields.io/badge/Framework-Scikit--learn-orange">
-<img alt="Visualization" src="https://img.shields.io/badge/Visulisation-Matplotlib-green">
+<img alt="Framework" src="https://img.shields.io/badge/Visulisation-Matplotlib-green">
 <img alt="RStudio" src="https://img.shields.io/badge/RStudio-4285F4?style=flat&logo=rstudio&logoColor=white">
 </p>
 
 # Predicting Phytoplankton Dynamics with Explainable AI
 
-This project uses machine learning and explainable AI (XAI) to predict and understand the phytoplankton dynamics in the Falling Creek and Beaverdam Reservoirs in Virginia, USA. By analyzing environmental variables collected at the sites, we uncover the hidden patterns driving phytoplankton dynamics, offering insights for both water quality management and ecological research. 
+This project uses machine learning and explainable AI (XAI) to predict and understand phytoplankton dynamics in Falling Creek and Beaverdam Reservoirs in Virginia, USA. By analyzing environmental variables collected at the sites, we uncover the hidden patterns driving phytoplankton dynamics, offering insights for both water quality management and ecological research. 
 
 ---
 
